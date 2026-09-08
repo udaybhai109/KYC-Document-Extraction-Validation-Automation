@@ -1,8 +1,6 @@
 # KYC-Document-Extraction-Validation-Automation
 RPA workflow for KYC document extraction, validation and client onboarding, developed during a Digital Factory traineeship using Automation Anywhere.
 
-# KYC Document Extraction & Validation Automation
-
 ## Overview
 
 This project demonstrates an RPA workflow for automating parts of the KYC and client onboarding process using Automation Anywhere.
